@@ -2,7 +2,7 @@
 
 Hi, my name is Ryan and I am looking to explore the ins-and-outs of full stack development!
 
-Link to my gitub portfolio: https://github.com/ryanl3708/
+Link to [my gitub portfolio](https://github.com/ryanl3708/)
 
 What Growth mindset means to me is
 
