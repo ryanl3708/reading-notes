@@ -30,3 +30,12 @@
     * sets text-color for different elements
     * color with HEX, RGB, RGBA, HSL, HSLA etc...
     * color: value
+
+#### Selectors
+* Element Selector
+* Universal selector
+* ID selector
+* simple selector
+* class selector 
+* Combinator selector
+* pseudo selectors
