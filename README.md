@@ -4,10 +4,16 @@ Hi, my name is Ryan and I am looking to explore the ins-and-outs of full stack d
 
 Link to [my gitub portfolio](https://github.com/ryanl3708/)
 
-What Growth mindset means to me is to
+## Table of Contents
 
-## 3 reminders to stay in the growth mindset are:
+### Code-102 Reading Notes
 
-1. reminder 1
-2. Reminder 2
-3. Reminder 3
+- [Class 01](./102/Class-01.md)
+- [Class 02](./102/Class-02.md)
+- [Class 03](./102/Class-03.md)
+- [Class 04](./102/Class-04.md)
+- [Class 05](./102/Class-05.md)
+
+### Code-201 Reading Notes
+
+- [Class 01](./201/Class-01.md)
