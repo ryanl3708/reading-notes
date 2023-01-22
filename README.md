@@ -9,6 +9,7 @@ Link to [my gitub portfolio](https://github.com/ryanl3708/)
 ### Code-102 Reading Notes
 
 - [Class 01](./102/Class-01.md)
+- [Class 01b](./102/Class-01b.md)
 - [Class 02](./102/Class-02.md)
 - [Class 03](./102/Class-03.md)
 - [Class 04](./102/Class-04.md)
