@@ -4,6 +4,8 @@ Hi, my name is Ryan and I am looking to explore the ins-and-outs of full stack d
 
 Link to [my gitub portfolio](https://github.com/ryanl3708/)
 
+Below are my reading-notes from studying with CodeFellows' Code 102 and 201 programs!
+
 ## Table of Contents
 
 ### Code-102 Reading Notes
