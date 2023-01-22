@@ -70,3 +70,5 @@ Arithmetic
     * BUT arithemetic BEFORE string done normally
     * 5 + 3 + "3" + 2 = 832
 
+*       === does not equal ==
+    * === is a strict operand (checks data type also)
