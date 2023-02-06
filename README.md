@@ -1,10 +1,10 @@
 # My Reading Journal
 
-<p>Hi, my name is Ryan and I am looking to explore the ins-and-outs of full stack development! I have a background in geo-physics (BA) but am hoping to work as a software developer going forwards!
+Hi, my name is Ryan and I am looking to explore the ins-and-outs of full stack development! I have a background in geo-physics (BA) but am hoping to work as a software developer going forwards!
 
 Link to *[my gitub portfolio](https://github.com/ryanl3708/)*
 
-Below are my reading-notes from studying with CodeFellows' Code 102 and 201 programs!</p>
+Below are my reading-notes from studying with CodeFellows' Code 102 and 201 programs! <small> 301 and 401 to be added in the future! </small>
 
 ## Table of Contents
 
